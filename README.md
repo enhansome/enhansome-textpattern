@@ -142,7 +142,7 @@ h3(#back-end). Back-end
 
 h3(#front-end). Front-end
 
-* "Default theme repo":<https://github.com/textpattern/textpattern-default-theme> ⭐ 61 | 🐛 7 | 🌐 HTML | 📅 2026-08-10 - The theme that ships as standard with Textpattern CMS.
+* "Default theme repo":<https://github.com/textpattern/textpattern-default-theme> ⭐ 61 | 🐛 6 | 🌐 HTML | 📅 2026-08-16 - The theme that ships as standard with Textpattern CMS.
 
 h2(#resources). Resources
 
@@ -204,4 +204,4 @@ h2(#license). License
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
