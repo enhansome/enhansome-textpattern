@@ -196,7 +196,7 @@ h3(#blogs). Blogs
 
 h2(#related). Related
 
-* "Awesome PHP":<https://github.com/ziadoz/awesome-php> ⭐ 32,655 | 🐛 83 | 📅 2026-07-13 - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+* "Awesome PHP":<https://github.com/ziadoz/awesome-php> ⭐ 32,657 | 🐛 83 | 📅 2026-07-13 - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 h2(#license). License
 
@@ -204,4 +204,4 @@ h2(#license). License
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
