@@ -747,7 +747,7 @@
             "archived": false,
             "id": 1888697,
             "language": "HTML",
-            "last_commit": "2026-08-16T18:28:40Z",
+            "last_commit": "2026-08-24T19:02:51Z",
             "owner": "textpattern",
             "repo": "textpattern-default-theme",
             "stars": 61
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:41:57.534Z",
+    "last_updated": "2026-08-24T21:04:33.458Z",
     "original_repository": "drmonkeyninja/awesome-textpattern",
     "original_repository_id": 33142838,
     "original_repository_sha": "d004cf16778e72c75057f027924311ef42a7417c",
