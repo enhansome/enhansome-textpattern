@@ -1,7 +1,809 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "h2(#plugins). Plugins\nh3(#admin). Admin\nh3(#comments). Comments\nh3(#content). Content\nh3(#embedding). Embedding\nh3(#forms). Forms\nh3(#images). Images\nh3(#nav). Navigation\nh3(#performance). Performance\nh3(#seo). SEO\nh3(#social). Social\nPlugins that add social features to Textpattern.\nh3(#misc). Miscellaneous\nh2(#development). Plugin Development\nh2(#themes). Themes\nh3(#back-end). Back-end\nh3(#front-end). Front-end\nh2(#resources). Resources\nVarious resources, such as books, websites and articles, for improving your Textpattern skills and knowledge.\nh3(#resources-official). Official resources\nh3(#migration). Migration\nh3(#software-integration). Web development software integration\nh2(#community). Community\nh3(#core-team). Core Team\nh3(#plugins-dev). Plugins developers\nAlphabetical order by author prefixes\nh3(#blogs). Blogs\nh2(#related). Related\nh2(#license). License\nAwesome Textpattern by Andy Carter is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "\"hak_tinymce\":https://github.com/hakjoon/hak_tinymce",
+          "description": "TinyMCE integration for Textpattern.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 2140013,
+            "language": "PHP",
+            "last_commit": "2012-09-06T11:45:35Z",
+            "owner": "hakjoon",
+            "repo": "hak_tinymce",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"spf_codemirror\":https://github.com/spiffin/spf_codemirror",
+          "description": "CodeMirror syntax-highlighting and Emmet code-completion for Pages, Forms, Styles, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4277815,
+            "language": "PHP",
+            "last_commit": "2018-01-13T11:57:09Z",
+            "owner": "gusbemacbe",
+            "repo": "spf_codemirror",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"tom_image_grid\":https://github.com/Sacripant/tom_image_grid",
+          "description": "Provides a more compact grid interface for the image admin panel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19622306,
+            "language": "PHP",
+            "last_commit": "2017-09-18T13:45:31Z",
+            "owner": "Sacripant",
+            "repo": "tom_image_grid",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"rah_privileges\":https://github.com/gocom/rah_privileges",
+          "description": "Configure Textpattern's admin-side user-group privileges through the Preferences panel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31674384,
+            "language": "PHP",
+            "last_commit": "2025-07-16T06:39:12Z",
+            "owner": "gocom",
+            "repo": "rah_privileges",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"spf_js\":https://github.com/spiffin/spf_js",
+          "description": "JavaScript management (similar to Presentation → Styles).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4025017,
+            "language": "PHP",
+            "last_commit": "2022-08-08T08:12:40Z",
+            "owner": "spiffin",
+            "repo": "spf_js",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"yab_copy_to_new\":https://github.com/trenc/yab_copy_to_new",
+          "description": "Allows for easy copying of articles from the Write panel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16586378,
+            "language": "PHP",
+            "last_commit": "2017-02-14T13:45:23Z",
+            "owner": "trenc",
+            "repo": "yab_copy_to_new",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"jbx_multiple_image_upload\":https://github.com/jbach/jbx_multiple_image_upload",
+          "description": "Multiple image upload.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 19817737,
+            "language": "PHP",
+            "last_commit": "2014-09-26T10:01:06Z",
+            "owner": "jbach",
+            "repo": "jbx_multiple_image_upload",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"rah_comments\":https://github.com/gocom/rah_comments",
+          "description": "Paginated article comments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32686928,
+            "language": "PHP",
+            "last_commit": "2015-03-23T12:42:54Z",
+            "owner": "gocom",
+            "repo": "rah_comments",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"rah_comment_spam\":https://github.com/gocom/rah_comment_spam",
+          "description": "Comment anti-spam plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3332223,
+            "language": "PHP",
+            "last_commit": "2025-07-16T11:14:33Z",
+            "owner": "gocom",
+            "repo": "rah_comment_spam",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"arc_admin_comment_preview\":https://github.com/drmonkeyninja/arc_admin_comment_preview",
+          "description": "Adds a comment preview to admin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23928694,
+            "language": "PHP",
+            "last_commit": "2017-01-20T19:16:25Z",
+            "owner": "drmonkeyninja",
+            "repo": "arc_admin_comment_preview",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"jnm_recent_comments_unique\":https://github.com/juanjonavarro/jnm_recent_comments_unique",
+          "description": "Show latest comments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17524046,
+            "language": "PHP",
+            "last_commit": "2014-03-07T20:07:48Z",
+            "owner": "juanjonavarro",
+            "repo": "jnm_recent_comments_unique",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"glz_custom_fields\":https://github.com/gerhard/glz_custom_fields",
+          "description": "Unlimited custom fields.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 16121,
+            "language": "PHP",
+            "last_commit": "2013-07-27T11:42:08Z",
+            "owner": "gerhard",
+            "repo": "glz_custom_fields",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"smd_tags\":https://github.com/Bloke/smd_tags",
+          "description": "Unlimited, structured taxonomy across content types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24775417,
+            "language": "PHP",
+            "last_commit": "2025-03-24T17:45:52Z",
+            "owner": "Bloke",
+            "repo": "smd_tags",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"arc_youtube\":https://github.com/drmonkeyninja/arc_youtube",
+          "description": "Easily embed YouTube videos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1190101,
+            "language": "PHP",
+            "last_commit": "2018-05-17T19:15:26Z",
+            "owner": "drmonkeyninja",
+            "repo": "arc_youtube",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"oui_instagram\":https://github.com/NicolasGraph/oui_instagram",
+          "description": "Easily embed Instagram recent images galleries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52371949,
+            "language": "PHP",
+            "last_commit": "2017-05-28T06:10:32Z",
+            "owner": "NicolasGraph",
+            "repo": "oui_instagram",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"oui_player\":https://github.com/NicolasGraph/oui_player",
+          "description": "Easily embed customizable players from a growing providers list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64467347,
+            "language": "PHP",
+            "last_commit": "2018-10-09T12:52:52Z",
+            "owner": "NicolasGraph",
+            "repo": "oui_player",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"oui_embed\":https://github.com/NicolasGraph/oui_embed",
+          "description": "Embed any information from any web page using \"Embed\":https://github.com/oscarotero/Embed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55337664,
+            "language": "PHP",
+            "last_commit": "2017-01-19T21:15:35Z",
+            "owner": "NicolasGraph",
+            "repo": "oui_embed",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"arc_vimeo\":https://github.com/drmonkeyninja/arc_vimeo",
+          "description": "Easily embed Vimeo videos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16885712,
+            "language": "PHP",
+            "last_commit": "2018-05-17T19:29:35Z",
+            "owner": "drmonkeyninja",
+            "repo": "arc_vimeo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"zem_contact_reborn\":https://github.com/Bloke/zem_contact_reborn",
+          "description": "Contact forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16495300,
+            "language": "PHP",
+            "last_commit": "2025-12-21T23:53:16Z",
+            "owner": "textpattern",
+            "repo": "com_connect",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"smd_thumbnail\":https://github.com/Bloke/smd_thumbnail",
+          "description": "Multiple image thumbnails of arbitrary dimensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31064510,
+            "language": "PHP",
+            "last_commit": "2025-06-01T22:48:19Z",
+            "owner": "Bloke",
+            "repo": "smd_thumbnail",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"smd_imagery\":https://github.com/Bloke/smd_imagery",
+          "description": "Article images management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70284270,
+            "language": "PHP",
+            "last_commit": "2016-10-07T21:51:44Z",
+            "owner": "Bloke",
+            "repo": "smd_imagery",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"etc_pagination\":https://github.com/etc-plugins/etc_pagination",
+          "description": "Paginate everything.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32607172,
+            "language": "PHP",
+            "last_commit": "2020-12-10T22:01:34Z",
+            "owner": "etc-plugins",
+            "repo": "etc_pagination",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"smd_horizon\":https://github.com/Bloke/smd_horizon",
+          "description": "Advanced next/previous links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32951053,
+            "language": "PHP",
+            "last_commit": "2019-10-22T12:15:07Z",
+            "owner": "Bloke",
+            "repo": "smd_horizon",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"asy_jpcache\":https://github.com/netcarver/asy_jpcache",
+          "description": "Full page caching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 955018,
+            "language": "PHP",
+            "last_commit": "2018-11-04T20:28:44Z",
+            "owner": "netcarver",
+            "repo": "asy_jpcache",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"etc_cache\":https://github.com/etc-plugins/etc_cache",
+          "description": "Events-driven cache solution for Textpattern CMS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96439098,
+            "language": "PHP",
+            "last_commit": "2022-04-01T21:58:01Z",
+            "owner": "etc-plugins",
+            "repo": "etc_cache",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"rah_cache\":https://github.com/gocom/rah_cache",
+          "description": "Cache dynamic pages as flat files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3406172,
+            "language": "PHP",
+            "last_commit": "2019-03-29T23:03:31Z",
+            "owner": "gocom",
+            "repo": "rah_cache",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"rah_memcached\":https://github.com/gocom/rah_memcached",
+          "description": "Store parts of Textpattern templates in \"Memcached\":http://memcached.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17674448,
+            "language": "PHP",
+            "last_commit": "2025-07-16T11:43:18Z",
+            "owner": "gocom",
+            "repo": "rah_memcached",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"rah_cache_minify\":https://github.com/gocom/rah_cache_minify",
+          "description": "HTML compressor module for rah_cache plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11422233,
+            "language": "PHP",
+            "last_commit": "2013-07-30T13:26:16Z",
+            "owner": "gocom",
+            "repo": "rah_cache_minify",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"rah_sitemap\":https://github.com/gocom/rah_sitemap",
+          "description": "XML sitemap generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3330353,
+            "language": "PHP",
+            "last_commit": "2025-07-16T09:40:50Z",
+            "owner": "gocom",
+            "repo": "rah_sitemap",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"arc_meta\":https://github.com/drmonkeyninja/arc_meta",
+          "description": "Meta tags to improve site SEO and social marketing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15848670,
+            "language": "PHP",
+            "last_commit": "2017-01-20T19:17:46Z",
+            "owner": "drmonkeyninja",
+            "repo": "arc_meta",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"arc_redirect\":https://github.com/drmonkeyninja/arc_redirect",
+          "description": "URL redirect plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2085056,
+            "language": "PHP",
+            "last_commit": "2017-05-08T22:20:39Z",
+            "owner": "drmonkeyninja",
+            "repo": "arc_redirect",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"wcz_utf8_url\":https://github.com/wcz-txp/Unicode-url-for-Textpattern",
+          "description": "UTF-8 permlinks instead of transliterated ones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5289163,
+            "language": "PHP",
+            "last_commit": "2015-04-01T09:55:26Z",
+            "owner": "wcz-txp",
+            "repo": "Unicode-url-for-Textpattern",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"TXP Tweet\":https://github.com/drmonkeyninja/TXP-Tweet",
+          "description": "Twitter-Textpattern integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1190024,
+            "language": "PHP",
+            "last_commit": "2018-02-05T22:28:51Z",
+            "owner": "drmonkeyninja",
+            "repo": "TXP-Tweet",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"arc_social_share\":https://github.com/drmonkeyninja/arc_social_share",
+          "description": "Social bookmarking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15028729,
+            "language": "PHP",
+            "last_commit": "2018-05-16T18:15:28Z",
+            "owner": "drmonkeyninja",
+            "repo": "arc_social_share",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"pat_article_social\":https://github.com/cara-tm/pat_article_social",
+          "description": "Social bookmarking with share counts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28784190,
+            "language": "PHP",
+            "last_commit": "2017-09-13T13:12:03Z",
+            "owner": "cara-tm",
+            "repo": "pat_article_social",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"textpattern-installer\":https://github.com/gocom/textpattern-installer",
+          "description": "Textpattern plugin and theme installer for Composer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9721263,
+            "language": "PHP",
+            "last_commit": "2022-11-19T14:44:24Z",
+            "owner": "gocom",
+            "repo": "textpattern-installer",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"rah_backup\":https://github.com/gocom/rah_backup",
+          "description": "Takes backups from Textpattern CMS installations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3302092,
+            "language": "PHP",
+            "last_commit": "2014-04-01T10:05:44Z",
+            "owner": "gocom",
+            "repo": "rah_backup",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"oui_cookie\":https://github.com/NicolasGraph/oui_cookie",
+          "description": "Set, read, reset or delete cookies manually or through URL variables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59703932,
+            "language": "PHP",
+            "last_commit": "2019-10-21T14:33:15Z",
+            "owner": "NicolasGraph",
+            "repo": "oui_cookie",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"pat_if_amp\":https://github.com/cara-tm/pat_if_amp",
+          "description": "Serve Google's Accelerated Mobile Pages (AMP) in Textpattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55503210,
+            "language": "PHP",
+            "last_commit": "2019-12-15T20:49:27Z",
+            "owner": "cara-tm",
+            "repo": "pat_if_amp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"pat_eu_cookies_law\":https://github.com/cara-tm/pat_eu_cookies_law",
+          "description": "EU Cookie Law compliance: A Textpattern CMS plugin for third-party cookies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97323317,
+            "language": "PHP",
+            "last_commit": "2020-08-16T05:02:55Z",
+            "owner": "cara-tm",
+            "repo": "pat_eu_cookies_law",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"rah_terminal\":https://github.com/gocom/rah_terminal",
+          "description": "Terminal interface emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4047324,
+            "language": "PHP",
+            "last_commit": "2014-05-09T14:23:46Z",
+            "owner": "gocom",
+            "repo": "rah_terminal",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"upm_pending_notify\":https://github.com/wcz-txp/upm_pending_notify",
+          "description": "Pending article notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33410321,
+            "language": "PHP",
+            "last_commit": "2015-04-06T16:48:27Z",
+            "owner": "wcz-txp",
+            "repo": "upm_pending_notify",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"fly_excerpt\":https://github.com/brachycera/fly_excerpt",
+          "description": "Truncate the article excerpt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30879649,
+            "language": "PHP",
+            "last_commit": "2016-09-28T16:02:07Z",
+            "owner": "brachycera",
+            "repo": "fly_excerpt",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"oui_quote\":https://github.com/NicolasGraph/oui_quote",
+          "description": "Pull and display a quote from \"Quotes on design\":http://quotesondesign.com/, \"They said so\":https://theysaidso.com/, \"Le figaro\":http://evene.lefigaro.fr/citations or \"Le Monde\":http://dicocitations.lemonde.fr/citations-mot-monde.php.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58309020,
+            "language": "PHP",
+            "last_commit": "2017-01-19T21:21:08Z",
+            "owner": "NicolasGraph",
+            "repo": "oui_quote",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"rah_flat\":https://github.com/NicolasGraph/rah_flat",
+          "description": "Edit Textpattern's database contents and page templates as flat files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91306859,
+            "language": "PHP",
+            "last_commit": "2017-06-26T12:41:55Z",
+            "owner": "NicolasGraph",
+            "repo": "rah_flat",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Plugin template repo\":https://github.com/textpattern/textpattern-plugin-template",
+          "description": "A starter package for plugin developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35535761,
+            "language": "PHP",
+            "last_commit": "2024-12-01T01:26:24Z",
+            "owner": "textpattern",
+            "repo": "textpattern-plugin-template",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"ied_plugin_composer\":https://github.com/Bloke/ied_plugin_composer",
+          "description": "Create, publish and edit plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22252006,
+            "language": "PHP",
+            "last_commit": "2022-04-01T21:41:14Z",
+            "owner": "Bloke",
+            "repo": "ied_plugin_composer",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"MassPlugCompiler\":https://github.com/gocom/MassPlugCompiler",
+          "description": "Compiles Textpattern's plugin installer packages from separate source files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1595280,
+            "language": "PHP",
+            "last_commit": "2025-09-27T00:40:01Z",
+            "owner": "gocom",
+            "repo": "MassPlugCompiler",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"jQuery UI theme repo\":https://github.com/textpattern/textpattern-jquery-ui-theme",
+          "description": "The jQuery UI theme used within the Textpattern admin-side.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14447447,
+            "language": "SCSS",
+            "last_commit": "2026-07-31T13:50:24Z",
+            "owner": "textpattern",
+            "repo": "textpattern-jquery-ui-theme",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Default theme repo\":https://github.com/textpattern/textpattern-default-theme",
+          "description": "The theme that ships as standard with Textpattern CMS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1888697,
+            "language": "HTML",
+            "last_commit": "2026-08-16T18:28:40Z",
+            "owner": "textpattern",
+            "repo": "textpattern-default-theme",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"WP to Txp\":https://github.com/NicolasGraph/wp-to-txp",
+          "description": "WordPress developer helpful references.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154349430,
+            "language": null,
+            "last_commit": "2018-10-23T15:16:51Z",
+            "owner": "NicolasGraph",
+            "repo": "wp-to-txp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Textpattern for Panic Coda\":https://github.com/philwareham/Textpattern-for-Panic-Coda",
+          "description": "Handy elements for use with Panic Coda 2 on a Mac.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2405395,
+            "language": "Perl",
+            "last_commit": "2017-04-03T15:33:40Z",
+            "owner": "philwareham",
+            "repo": "Textpattern-for-Panic-Coda",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Awesome PHP\":https://github.com/ziadoz/awesome-php",
+          "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14705691,
+            "language": null,
+            "last_commit": "2026-07-13T19:44:57Z",
+            "owner": "ziadoz",
+            "repo": "awesome-php",
+            "stars": 32672
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T20:58:19.874Z",
+    "last_updated": "2026-08-24T14:41:57.534Z",
     "original_repository": "drmonkeyninja/awesome-textpattern",
     "original_repository_id": 33142838,
     "original_repository_sha": "d004cf16778e72c75057f027924311ef42a7417c",
