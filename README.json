@@ -803,9 +803,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:05:14.330Z",
-    "original_repository": "drmonkeyninja/awesome-textpattern",
-    "original_repository_id": 33142838,
+    "last_updated": "2026-08-27T12:07:46.065Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 33142838,
+      "language": null,
+      "last_commit": "2020-10-05T11:22:17Z",
+      "owner": "drmonkeyninja",
+      "repo": "awesome-textpattern",
+      "stars": 87
+    },
     "original_repository_sha": "d004cf16778e72c75057f027924311ef42a7417c",
     "enhanced_repository": "enhansome/enhansome-textpattern",
     "enhanced_repository_description": null,
