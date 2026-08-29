@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "TinyMCE integration for Textpattern",
+            "homepage": "http://www.hakjoon.com/code/haktinymce",
             "id": 2140013,
             "language": "PHP",
+            "license": null,
             "last_commit": "2012-09-06T11:45:35Z",
+            "open_issues": 3,
             "owner": "hakjoon",
             "repo": "hak_tinymce",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CodeMirror syntax-highlighting for Textpattern",
+            "homepage": null,
             "id": 4277815,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-01-13T11:57:09Z",
+            "open_issues": 2,
             "owner": "gusbemacbe",
             "repo": "spf_codemirror",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -42,12 +52,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for Textpattern CMS  : An optionnal grid display for images tab",
+            "homepage": null,
             "id": 19622306,
             "language": "PHP",
+            "license": null,
             "last_commit": "2017-09-18T13:45:31Z",
+            "open_issues": 0,
             "owner": "Sacripant",
             "repo": "tom_image_grid",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -58,12 +76,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configure Textpattern CMS' user-group privileges through Preferences panel",
+            "homepage": null,
             "id": 31674384,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2025-07-16T06:39:12Z",
+            "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_privileges",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "composer-packages",
+              "php",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -74,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a JavaScript management plugin for Textpattern",
+            "homepage": null,
             "id": 4025017,
             "language": "PHP",
+            "license": null,
             "last_commit": "2022-08-08T08:12:40Z",
+            "open_issues": 1,
             "owner": "spiffin",
             "repo": "spf_js",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -90,12 +123,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Textpattern plugin. Copies the current article content to a new one.",
+            "homepage": null,
             "id": 16586378,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2017-02-14T13:45:23Z",
+            "open_issues": 0,
             "owner": "trenc",
             "repo": "yab_copy_to_new",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -106,12 +147,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Multiple Image Upload Plugin for Textpattern",
+            "homepage": "https://packagist.org/packages/jbach/jbx_multiple_image_upload",
             "id": 19817737,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2014-09-26T10:01:06Z",
+            "open_issues": 1,
             "owner": "jbach",
             "repo": "jbx_multiple_image_upload",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -122,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paginated article comments list for Textpattern CMS",
+            "homepage": null,
             "id": 32686928,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2015-03-23T12:42:54Z",
+            "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_comments",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -138,12 +189,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comment anti-spam plugin for Textpattern CMS",
+            "homepage": null,
             "id": 3332223,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2025-07-16T11:14:33Z",
+            "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_comment_spam",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "php",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -154,12 +214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Textpattern plugin that adds a comment preview to admin",
+            "homepage": "http://andy-carter.com/txp/arc_admin_comment_preview",
             "id": 23928694,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-01-20T19:16:25Z",
+            "open_issues": 0,
             "owner": "drmonkeyninja",
             "repo": "arc_admin_comment_preview",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -170,12 +235,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Textpattern plugin: List latest comments and commenters.",
+            "homepage": null,
             "id": 17524046,
             "language": "PHP",
+            "license": null,
             "last_commit": "2014-03-07T20:07:48Z",
+            "open_issues": 0,
             "owner": "juanjonavarro",
             "repo": "jnm_recent_comments_unique",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -186,12 +256,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Unlimited Custom Fields for Textpattern",
+            "homepage": "http://forum.textpattern.com/viewtopic.php?id=23996",
             "id": 16121,
             "language": "PHP",
+            "license": null,
             "last_commit": "2013-07-27T11:42:08Z",
+            "open_issues": 1,
             "owner": "gerhard",
             "repo": "glz_custom_fields",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -202,12 +277,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Textpattern CMS plugin for unlimited, structured taxonomy across content types.",
+            "homepage": null,
             "id": 24775417,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2025-03-24T17:45:52Z",
+            "open_issues": 5,
             "owner": "Bloke",
             "repo": "smd_tags",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -218,12 +301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Youtube plugin for Textpattern",
+            "homepage": "http://andy-carter.com/txp/arc_youtube",
             "id": 1190101,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-05-17T19:15:26Z",
+            "open_issues": 0,
             "owner": "drmonkeyninja",
             "repo": "arc_youtube",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -234,12 +322,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instagram user infos and recent images embedding plugin for @textpattern",
+            "homepage": "http://forum.textpattern.com/viewtopic.php?id=46873",
             "id": 52371949,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2017-05-28T06:10:32Z",
+            "open_issues": 1,
             "owner": "NicolasGraph",
             "repo": "oui_instagram",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "api",
+              "instagram",
+              "instagram-api",
+              "oembed",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -250,12 +350,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage configurable media players in @Textpattern CMS",
+            "homepage": "http://forum.textpattern.com/viewtopic.php?id=47244",
             "id": 64467347,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2018-10-09T12:52:52Z",
+            "open_issues": 0,
             "owner": "NicolasGraph",
             "repo": "oui_player",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "abc",
+              "archive",
+              "audio",
+              "bandcamp",
+              "dailymotion",
+              "embed",
+              "mixcloud",
+              "myspace",
+              "oui-player",
+              "player",
+              "soundcloud",
+              "textpattern",
+              "textpattern-plugin",
+              "twitch",
+              "txp",
+              "viddsee",
+              "video",
+              "vimeo",
+              "vine",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -266,12 +392,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(o)Embed plugin for @Textpattern",
+            "homepage": "http://forum.textpattern.com/viewtopic.php?id=46933",
             "id": 55337664,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2017-01-19T21:15:35Z",
+            "open_issues": 1,
             "owner": "NicolasGraph",
             "repo": "oui_embed",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "embed",
+              "oembed",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -282,12 +418,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Textpattern plugin for embedding Vimeo videos in content",
+            "homepage": null,
             "id": 16885712,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-05-17T19:29:35Z",
+            "open_issues": 0,
             "owner": "drmonkeyninja",
             "repo": "arc_vimeo",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "textpattern",
+              "textpattern-plugin",
+              "vimeo"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -298,12 +443,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensible HTML form mailer plugin for Textpattern CMS.",
+            "homepage": null,
             "id": 16495300,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2025-12-21T23:53:16Z",
+            "open_issues": 16,
             "owner": "textpattern",
             "repo": "com_connect",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "email-sender",
+              "forms",
+              "html-forms",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -314,12 +470,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multiple image thumbnails of arbitrary dimensions",
+            "homepage": null,
             "id": 31064510,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2025-06-01T22:48:19Z",
+            "open_issues": 2,
             "owner": "Bloke",
             "repo": "smd_thumbnail",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -330,12 +494,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Textpattern CMS plugin for managing images in the Write panel.",
+            "homepage": null,
             "id": 70284270,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2016-10-07T21:51:44Z",
+            "open_issues": 3,
             "owner": "Bloke",
             "repo": "smd_imagery",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -346,12 +518,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pagination plugin for Textpattern CMS.",
+            "homepage": null,
             "id": 32607172,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2020-12-10T22:01:34Z",
+            "open_issues": 1,
             "owner": "etc-plugins",
             "repo": "etc_pagination",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "paginate",
+              "pagination",
+              "paginator",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -362,12 +545,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next/previous Textpattern article without restrictions",
+            "homepage": null,
             "id": 32951053,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-10-22T12:15:07Z",
+            "open_issues": 0,
             "owner": "Bloke",
             "repo": "smd_horizon",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -378,12 +569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jpcache plugin for Textpattern",
+            "homepage": "http://forum.textpattern.com/viewtopic.php?id=8352&p=1",
             "id": 955018,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2018-11-04T20:28:44Z",
+            "open_issues": 1,
             "owner": "netcarver",
             "repo": "asy_jpcache",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -394,12 +590,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cache plugin for Textpattern CMS",
+            "homepage": "http://www.iut-fbleau.fr/projet/etc/index.php?id=52",
             "id": 96439098,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2022-04-01T21:58:01Z",
+            "open_issues": 0,
             "owner": "etc-plugins",
             "repo": "etc_cache",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cache",
+              "caching",
+              "performance",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -410,12 +617,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cache Textpattern's dynamic pages as flat files",
+            "homepage": null,
             "id": 3406172,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2019-03-29T23:03:31Z",
+            "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_cache",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "php",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -426,12 +642,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Store parts of Textpattern CMS templates in Memcached",
+            "homepage": null,
             "id": 17674448,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2025-07-16T11:43:18Z",
+            "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_memcached",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "memcached",
+              "php",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -442,12 +668,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML compressor module for rah_cache Textpattern CMS plugin",
+            "homepage": null,
             "id": 11422233,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2013-07-30T13:26:16Z",
+            "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_cache_minify",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -458,12 +689,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XML sitemap generator for Textpattern CMS",
+            "homepage": null,
             "id": 3330353,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2025-07-16T09:40:50Z",
+            "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_sitemap",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "textpattern",
+              "textpattern-cms-plugin",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -474,12 +714,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Textpattern plugin for meta tags to improve site SEO and social marketing.",
+            "homepage": "andy-carter.com/txp/arc_meta",
             "id": 15848670,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-01-20T19:17:46Z",
+            "open_issues": 1,
             "owner": "drmonkeyninja",
             "repo": "arc_meta",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -490,12 +735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "URL redirect plugin for Textpattern - love redirects, hate 404s",
+            "homepage": "http://andy-carter.com/txp/arc_redirect-love-redirects-hate-404s",
             "id": 2085056,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-05-08T22:20:39Z",
+            "open_issues": 1,
             "owner": "drmonkeyninja",
             "repo": "arc_redirect",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -506,12 +756,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for using unicode urls instead of transliterations to ASCII characters",
+            "homepage": null,
             "id": 5289163,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2015-04-01T09:55:26Z",
+            "open_issues": 0,
             "owner": "wcz-txp",
             "repo": "Unicode-url-for-Textpattern",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "php",
+              "php5",
+              "seo",
+              "seo-optimization",
+              "seo-url",
+              "textpattern",
+              "textpattern-cms-plugin",
+              "textpattern-plugin",
+              "url"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -522,12 +787,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "arc_twitter - Twitter-Textpattern integration",
+            "homepage": null,
             "id": 1190024,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-02-05T22:28:51Z",
+            "open_issues": 4,
             "owner": "drmonkeyninja",
             "repo": "TXP-Tweet",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "textpattern",
+              "textpattern-plugin",
+              "twitter"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -538,12 +812,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Social Bookmarking Plugin for Textpattern",
+            "homepage": "http://andy-carter.com/txp/arc_social_share",
             "id": 15028729,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-05-16T18:15:28Z",
+            "open_issues": 0,
             "owner": "drmonkeyninja",
             "repo": "arc_social_share",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -554,12 +836,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create social links and share counters for articles with Open Graph Meta tags. Embedded status into article's body (Twitter, facebook, G+, Instagram or Gist), blocks of text (quotes) followed by share links below it. Google AMP capable.",
+            "homepage": "http://pat-article-social.cara-tm.com/",
             "id": 28784190,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2017-09-13T13:12:03Z",
+            "open_issues": 1,
             "owner": "cara-tm",
             "repo": "pat_article_social",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "social-network",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -570,12 +861,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Textpattern plugin and theme installer for Composer",
+            "homepage": "https://textpattern.com",
             "id": 9721263,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2022-11-19T14:44:24Z",
+            "open_issues": 1,
             "owner": "gocom",
             "repo": "textpattern-installer",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "composer",
+              "composer-installer",
+              "composer-plugin",
+              "php",
+              "textpattern",
+              "textpattern-development",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -586,12 +890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Takes backups from Textpattern CMS installations",
+            "homepage": null,
             "id": 3302092,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2014-04-01T10:05:44Z",
+            "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_backup",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -602,12 +911,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cookie management plugin for @Textpattern",
+            "homepage": "http://forum.textpattern.com/viewtopic.php?id=47048",
             "id": 59703932,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2019-10-21T14:33:15Z",
+            "open_issues": 2,
             "owner": "NicolasGraph",
             "repo": "oui_cookie",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cookie",
+              "cookies",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -618,12 +937,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ A Textpattern Conditional Plugin for Google's Accelerated Mobile Pages Project (AMP)",
+            "homepage": "https://ampstart.com/",
             "id": 55503210,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2019-12-15T20:49:27Z",
+            "open_issues": 0,
             "owner": "cara-tm",
             "repo": "pat_if_amp",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "accelerated-mobile-pages",
+              "amp",
+              "google-amp",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -634,12 +964,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌝 EU Cookie Law Compliance: A Textpattern plugin (or standalone script) for Third-Party Cookies (RGPD compliance)",
+            "homepage": "https://codepen.io/cara-tm/full/oPYYRb/",
             "id": 97323317,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2020-08-16T05:02:55Z",
+            "open_issues": 0,
             "owner": "cara-tm",
             "repo": "pat_eu_cookies_law",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "all-browsers",
+              "eu-cookie",
+              "gdpr",
+              "gdpr-cookie",
+              "javascript",
+              "law",
+              "no-dependencies",
+              "php",
+              "rgpd",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -650,12 +997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A terminal for Textpattern CMS",
+            "homepage": null,
             "id": 4047324,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2014-05-09T14:23:46Z",
+            "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_terminal",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -666,12 +1018,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pending article notification for textpattern.",
+            "homepage": null,
             "id": 33410321,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2015-04-06T16:48:27Z",
+            "open_issues": 0,
             "owner": "wcz-txp",
             "repo": "upm_pending_notify",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "php",
+              "php5",
+              "textpattern",
+              "textpattern-cms-plugin",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -682,12 +1045,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Textpattern CMS Plugin - Truncate the Article Excerpt",
+            "homepage": "http://www.flyweb.at/blog/projects/971/cms-textpattern-excerpt-plug-in",
             "id": 30879649,
             "language": "PHP",
+            "license": null,
             "last_commit": "2016-09-28T16:02:07Z",
+            "open_issues": 0,
             "owner": "brachycera",
             "repo": "fly_excerpt",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "php",
+              "textpattern-cms-plugin",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -698,12 +1070,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quote plugin for @textpattern",
+            "homepage": "http://forum.textpattern.com/viewtopic.php?id=47014",
             "id": 58309020,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2017-01-19T21:21:08Z",
+            "open_issues": 0,
             "owner": "NicolasGraph",
             "repo": "oui_quote",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "api",
+              "dicocitations",
+              "embed",
+              "evene",
+              "le-figaro",
+              "le-monde",
+              "quotes",
+              "quotes-on-design",
+              "textpattern",
+              "textpattern-plugin",
+              "they-said-so"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -714,12 +1103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edit Textpattern's database contents and page templates as flat files",
+            "homepage": null,
             "id": 91306859,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2017-06-26T12:41:55Z",
+            "open_issues": 0,
             "owner": "NicolasGraph",
             "repo": "rah_flat",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -730,12 +1124,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template for building plugins for Textpattern CMS.",
+            "homepage": "https://textpattern.com/",
             "id": 35535761,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2024-12-01T01:26:24Z",
+            "open_issues": 2,
             "owner": "textpattern",
             "repo": "textpattern-plugin-template",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "extension",
+              "php",
+              "plugin",
+              "template",
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -746,12 +1152,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspired Plugin Composer: Create, publish and edit plugins from within Textpattern CMS.",
+            "homepage": null,
             "id": 22252006,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2022-04-01T21:41:14Z",
+            "open_issues": 6,
             "owner": "Bloke",
             "repo": "ied_plugin_composer",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "textpattern",
+              "textpattern-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -762,12 +1176,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Textpattern CMS plugin compiler",
+            "homepage": null,
             "id": 1595280,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2025-09-27T00:40:01Z",
+            "open_issues": 0,
             "owner": "gocom",
             "repo": "MassPlugCompiler",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "php",
+              "textpattern",
+              "textpattern-development"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -778,12 +1201,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The jQuery UI theme used within the Textpattern CMS admin-side.",
+            "homepage": null,
             "id": 14447447,
             "language": "SCSS",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-31T13:50:24Z",
+            "open_issues": 0,
             "owner": "textpattern",
             "repo": "textpattern-jquery-ui-theme",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "css",
+              "icons",
+              "jquery-ui",
+              "jquery-ui-theme",
+              "sass",
+              "scss",
+              "textpattern"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -794,12 +1230,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Textpattern CMS default theme.",
+            "homepage": "https://release-demo.textpattern.co",
             "id": 1888697,
             "language": "HTML",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-24T19:02:51Z",
+            "open_issues": 7,
             "owner": "textpattern",
             "repo": "textpattern-default-theme",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "css",
+              "sass",
+              "scss",
+              "textpattern",
+              "textpattern-theme",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -810,12 +1258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "@WordPress to @Textpattern dev guide",
+            "homepage": null,
             "id": 154349430,
             "language": null,
+            "license": null,
             "last_commit": "2018-10-23T15:16:51Z",
+            "open_issues": 0,
             "owner": "NicolasGraph",
             "repo": "wp-to-txp",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -826,12 +1279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Textpattern CMS mode for Panic Coda",
+            "homepage": null,
             "id": 2405395,
             "language": "Perl",
+            "license": null,
             "last_commit": "2017-04-03T15:33:40Z",
+            "open_issues": 1,
             "owner": "philwareham",
             "repo": "Textpattern-for-Panic-Coda",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         },
@@ -842,12 +1300,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+            "homepage": null,
             "id": 14705691,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2026-07-13T19:44:57Z",
+            "open_issues": 85,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32671
+            "stars": 32671,
+            "topics": [
+              "awesome",
+              "awesome-lists",
+              "php",
+              "php-applications",
+              "php-framework",
+              "php-installation",
+              "php-library"
+            ]
           },
           "first_seen": "2026-08-28T04:28:34.387Z"
         }
@@ -856,15 +1327,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:54:47.658Z",
+    "last_updated": "2026-08-29T04:58:44.204Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Textpattern plugins and resources",
+      "homepage": null,
       "id": 33142838,
       "language": null,
+      "license": null,
       "last_commit": "2020-10-05T11:22:17Z",
+      "open_issues": 4,
       "owner": "drmonkeyninja",
       "repo": "awesome-textpattern",
-      "stars": 87
+      "stars": 87,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cms",
+        "list",
+        "php",
+        "textpattern",
+        "textpattern-development"
+      ]
     },
     "original_repository_sha": "d004cf16778e72c75057f027924311ef42a7417c",
     "enhanced_repository": "enhansome/enhansome-textpattern",
