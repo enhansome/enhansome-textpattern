@@ -1,6 +1,6 @@
 # Awesome textpattern with stars
 
-h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 502,035 | 🐛 105 | 📅 2026-08-21
+h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 502,390 | 🐛 105 | 📅 2026-09-02
 
 A curated list of amazingly awesome "Textpattern CMS":<http://textpattern.com> plugins, resources and shiny things.
 
@@ -142,7 +142,7 @@ h3(#back-end). Back-end
 
 h3(#front-end). Front-end
 
-* "Default theme repo":<https://github.com/textpattern/textpattern-default-theme> ⭐ 61 | 🐛 9 | 🌐 HTML | 📅 2026-08-31 - The theme that ships as standard with Textpattern CMS.
+* "Default theme repo":<https://github.com/textpattern/textpattern-default-theme> ⭐ 61 | 🐛 10 | 🌐 HTML | 📅 2026-09-02 - The theme that ships as standard with Textpattern CMS.
 
 h2(#resources). Resources
 
@@ -196,7 +196,7 @@ h3(#blogs). Blogs
 
 h2(#related). Related
 
-* "Awesome PHP":<https://github.com/ziadoz/awesome-php> ⭐ 32,675 | 🐛 85 | 📅 2026-07-13 - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+* "Awesome PHP":<https://github.com/ziadoz/awesome-php> ⭐ 32,676 | 🐛 85 | 📅 2026-07-13 - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 h2(#license). License
 
@@ -204,4 +204,4 @@ h2(#license). License
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
