@@ -1309,7 +1309,7 @@
             "open_issues": 89,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32682,
+            "stars": 32686,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:45:18.186Z",
+    "last_updated": "2026-09-10T22:46:15.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Textpattern plugins and resources",
