@@ -1,6 +1,6 @@
 # Awesome textpattern with stars
 
-h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 504,823 | 🐛 106 | 📅 2026-09-02
+h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 505,144 | 🐛 106 | 📅 2026-09-02
 
 A curated list of amazingly awesome "Textpattern CMS":<http://textpattern.com> plugins, resources and shiny things.
 
@@ -99,7 +99,7 @@ h3(#performance). Performance
 
 h3(#seo). SEO
 
-* "rah\_sitemap":<https://github.com/gocom/rah_sitemap> ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2025-07-16 - XML sitemap generator.
+* "rah\_sitemap":<https://github.com/gocom/rah_sitemap> ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2026-09-11 - XML sitemap generator.
 * "arc\_meta":<https://github.com/drmonkeyninja/arc_meta> ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2017-01-20 - Meta tags to improve site SEO and social marketing.
 * "arc\_redirect":<https://github.com/drmonkeyninja/arc_redirect> ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2017-05-08 - URL redirect plugin.
 * "wcz\_utf8\_url":<https://github.com/wcz-txp/Unicode-url-for-Textpattern> ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2015-04-01 - UTF-8 permlinks instead of transliterated ones.
@@ -114,7 +114,7 @@ Plugins that add social features to Textpattern.
 
 h3(#misc). Miscellaneous
 
-* "textpattern-installer":<https://github.com/gocom/textpattern-installer> ⭐ 6 | 🐛 1 | 🌐 PHP | 📅 2022-11-19 - Textpattern plugin and theme installer for Composer.
+* "textpattern-installer":<https://github.com/gocom/textpattern-installer> ⭐ 6 | 🐛 1 | 🌐 PHP | 📅 2026-09-11 - Textpattern plugin and theme installer for Composer.
 * "rah\_backup":<https://github.com/gocom/rah_backup> ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2014-04-01 - Takes backups from Textpattern CMS installations.
 * "oui\_cookie":<https://github.com/NicolasGraph/oui_cookie> ⭐ 4 | 🐛 2 | 🌐 PHP | 📅 2019-10-21 - Set, read, reset or delete cookies manually or through URL variables.
 * "pat\_if\_amp":<https://github.com/cara-tm/pat_if_amp> ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2019-12-15 - Serve Google's Accelerated Mobile Pages (AMP) in Textpattern.
@@ -196,7 +196,7 @@ h3(#blogs). Blogs
 
 h2(#related). Related
 
-* "Awesome PHP":<https://github.com/ziadoz/awesome-php> ⭐ 32,686 | 🐛 89 | 📅 2026-07-13 - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+* "Awesome PHP":<https://github.com/ziadoz/awesome-php> ⭐ 32,689 | 🐛 90 | 📅 2026-07-13 - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 h2(#license). License
 
@@ -204,4 +204,4 @@ h2(#license). License
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

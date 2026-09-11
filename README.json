@@ -694,7 +694,7 @@
             "id": 3330353,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2025-07-16T09:40:50Z",
+            "last_commit": "2026-09-11T17:10:51Z",
             "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_sitemap",
@@ -866,7 +866,7 @@
             "id": 9721263,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2022-11-19T14:44:24Z",
+            "last_commit": "2026-09-11T19:09:32Z",
             "open_issues": 1,
             "owner": "gocom",
             "repo": "textpattern-installer",
@@ -1306,10 +1306,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-07-13T19:44:57Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32686,
+            "stars": 32689,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:46:15.468Z",
+    "last_updated": "2026-09-11T22:47:19.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Textpattern plugins and resources",
