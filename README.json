@@ -1235,8 +1235,8 @@
             "id": 1888697,
             "language": "HTML",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-16T09:15:49Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-17T19:02:53Z",
+            "open_issues": 7,
             "owner": "textpattern",
             "repo": "textpattern-default-theme",
             "stars": 61,
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:15:05.867Z",
+    "last_updated": "2026-09-17T23:05:50.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Textpattern plugins and resources",

@@ -1,6 +1,6 @@
 # Awesome textpattern with stars
 
-h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 506,775 | 🐛 106 | 📅 2026-09-02
+h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 507,164 | 🐛 106 | 📅 2026-09-02
 
 A curated list of amazingly awesome "Textpattern CMS":<http://textpattern.com> plugins, resources and shiny things.
 
@@ -142,7 +142,7 @@ h3(#back-end). Back-end
 
 h3(#front-end). Front-end
 
-* "Default theme repo":<https://github.com/textpattern/textpattern-default-theme> ⭐ 61 | 🐛 6 | 🌐 HTML | 📅 2026-09-16 - The theme that ships as standard with Textpattern CMS.
+* "Default theme repo":<https://github.com/textpattern/textpattern-default-theme> ⭐ 61 | 🐛 7 | 🌐 HTML | 📅 2026-09-17 - The theme that ships as standard with Textpattern CMS.
 
 h2(#resources). Resources
 
@@ -204,4 +204,4 @@ h2(#license). License
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
