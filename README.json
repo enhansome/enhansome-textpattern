@@ -1206,7 +1206,7 @@
             "id": 14447447,
             "language": "SCSS",
             "license": "GPL-2.0",
-            "last_commit": "2026-07-31T13:50:24Z",
+            "last_commit": "2026-09-18T08:01:34Z",
             "open_issues": 0,
             "owner": "textpattern",
             "repo": "textpattern-jquery-ui-theme",
@@ -1235,7 +1235,7 @@
             "id": 1888697,
             "language": "HTML",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-17T19:02:53Z",
+            "last_commit": "2026-09-18T19:03:20Z",
             "open_issues": 7,
             "owner": "textpattern",
             "repo": "textpattern-default-theme",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:05:50.771Z",
+    "last_updated": "2026-09-18T22:48:59.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Textpattern plugins and resources",

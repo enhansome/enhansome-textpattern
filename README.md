@@ -1,6 +1,6 @@
 # Awesome textpattern with stars
 
-h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 507,164 | 🐛 106 | 📅 2026-09-02
+h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 507,509 | 🐛 106 | 📅 2026-09-02
 
 A curated list of amazingly awesome "Textpattern CMS":<http://textpattern.com> plugins, resources and shiny things.
 
@@ -137,12 +137,12 @@ h2(#themes). Themes
 
 h3(#back-end). Back-end
 
-* "jQuery UI theme repo":<https://github.com/textpattern/textpattern-jquery-ui-theme> ⭐ 15 | 🐛 0 | 🌐 SCSS | 📅 2026-07-31 - The jQuery UI theme used within the Textpattern admin-side.
+* "jQuery UI theme repo":<https://github.com/textpattern/textpattern-jquery-ui-theme> ⭐ 15 | 🐛 0 | 🌐 SCSS | 📅 2026-09-18 - The jQuery UI theme used within the Textpattern admin-side.
 * "Hive theme design patterns":<http://design-patterns.textpattern.io/docs/> - Core designer guidelines for themes and plugins developers.
 
 h3(#front-end). Front-end
 
-* "Default theme repo":<https://github.com/textpattern/textpattern-default-theme> ⭐ 61 | 🐛 7 | 🌐 HTML | 📅 2026-09-17 - The theme that ships as standard with Textpattern CMS.
+* "Default theme repo":<https://github.com/textpattern/textpattern-default-theme> ⭐ 61 | 🐛 7 | 🌐 HTML | 📅 2026-09-18 - The theme that ships as standard with Textpattern CMS.
 
 h2(#resources). Resources
 
@@ -204,4 +204,4 @@ h2(#license). License
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
