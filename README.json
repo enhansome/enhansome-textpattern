@@ -1305,11 +1305,11 @@
             "id": 14705691,
             "language": null,
             "license": "WTFPL",
-            "last_commit": "2026-07-13T19:44:57Z",
+            "last_commit": "2026-09-27T20:39:19Z",
             "open_issues": 93,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32711,
+            "stars": 32714,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:08:53.766Z",
+    "last_updated": "2026-09-27T23:24:07.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Textpattern plugins and resources",
