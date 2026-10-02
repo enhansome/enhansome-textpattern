@@ -1206,7 +1206,7 @@
             "id": 14447447,
             "language": "SCSS",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-30T08:46:20Z",
+            "last_commit": "2026-10-02T13:00:39Z",
             "open_issues": 0,
             "owner": "textpattern",
             "repo": "textpattern-jquery-ui-theme",
@@ -1235,8 +1235,8 @@
             "id": 1888697,
             "language": "HTML",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-30T08:44:56Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-02T12:50:18Z",
+            "open_issues": 3,
             "owner": "textpattern",
             "repo": "textpattern-default-theme",
             "stars": 62,
@@ -1309,7 +1309,7 @@
             "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32718,
+            "stars": 32721,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:13:46.229Z",
+    "last_updated": "2026-10-02T23:59:39.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Textpattern plugins and resources",

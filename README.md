@@ -1,6 +1,6 @@
 # Awesome textpattern with stars
 
-h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 513,271 | 🐛 106 | 📅 2026-09-02
+h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 513,726 | 🐛 106 | 📅 2026-09-02
 
 A curated list of amazingly awesome "Textpattern CMS":<http://textpattern.com> plugins, resources and shiny things.
 
@@ -137,12 +137,12 @@ h2(#themes). Themes
 
 h3(#back-end). Back-end
 
-* "jQuery UI theme repo":<https://github.com/textpattern/textpattern-jquery-ui-theme> ⭐ 15 | 🐛 0 | 🌐 SCSS | 📅 2026-09-30 - The jQuery UI theme used within the Textpattern admin-side.
+* "jQuery UI theme repo":<https://github.com/textpattern/textpattern-jquery-ui-theme> ⭐ 15 | 🐛 0 | 🌐 SCSS | 📅 2026-10-02 - The jQuery UI theme used within the Textpattern admin-side.
 * "Hive theme design patterns":<http://design-patterns.textpattern.io/docs/> - Core designer guidelines for themes and plugins developers.
 
 h3(#front-end). Front-end
 
-* "Default theme repo":<https://github.com/textpattern/textpattern-default-theme> ⭐ 62 | 🐛 6 | 🌐 HTML | 📅 2026-09-30 - The theme that ships as standard with Textpattern CMS.
+* "Default theme repo":<https://github.com/textpattern/textpattern-default-theme> ⭐ 62 | 🐛 3 | 🌐 HTML | 📅 2026-10-02 - The theme that ships as standard with Textpattern CMS.
 
 h2(#resources). Resources
 
@@ -196,7 +196,7 @@ h3(#blogs). Blogs
 
 h2(#related). Related
 
-* "Awesome PHP":<https://github.com/ziadoz/awesome-php> ⭐ 32,718 | 🐛 94 | 📅 2026-09-27 - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+* "Awesome PHP":<https://github.com/ziadoz/awesome-php> ⭐ 32,721 | 🐛 94 | 📅 2026-09-27 - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 h2(#license). License
 
