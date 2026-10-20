@@ -1306,10 +1306,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-09-27T20:39:19Z",
-            "open_issues": 97,
+            "open_issues": 98,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32756,
+            "stars": 32757,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:55:52.068Z",
+    "last_updated": "2026-10-20T23:24:01.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Textpattern plugins and resources",
