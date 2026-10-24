@@ -694,7 +694,7 @@
             "id": 3330353,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-13T15:57:04Z",
+            "last_commit": "2026-10-24T19:46:26Z",
             "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_sitemap",
@@ -1309,7 +1309,7 @@
             "open_issues": 98,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32761,
+            "stars": 32762,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:29:57.027Z",
+    "last_updated": "2026-10-24T22:43:44.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Textpattern plugins and resources",
