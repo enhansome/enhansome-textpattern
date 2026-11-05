@@ -1235,8 +1235,8 @@
             "id": 1888697,
             "language": "HTML",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-03T19:03:16Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-04T14:39:29Z",
+            "open_issues": 1,
             "owner": "textpattern",
             "repo": "textpattern-default-theme",
             "stars": 62,
@@ -1306,10 +1306,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-10-30T20:46:41Z",
-            "open_issues": 79,
+            "open_issues": 78,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32784,
+            "stars": 32785,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:53:34.257Z",
+    "last_updated": "2026-11-05T01:03:39.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Textpattern plugins and resources",
