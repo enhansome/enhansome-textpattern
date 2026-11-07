@@ -1,6 +1,6 @@
 # Awesome textpattern with stars
 
-h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 532,505 | 🐛 103 | 📅 2026-09-02
+h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 533,195 | 🐛 103 | 📅 2026-09-02
 
 A curated list of amazingly awesome "Textpattern CMS":<http://textpattern.com> plugins, resources and shiny things.
 
