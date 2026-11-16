@@ -616,13 +616,13 @@
           "description": "Cache dynamic pages as flat files.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Cache Textpattern's dynamic pages as flat files",
             "homepage": null,
             "id": 3406172,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2019-03-29T23:03:31Z",
+            "last_commit": "2026-11-15T17:45:03Z",
             "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_cache",
@@ -866,7 +866,7 @@
             "id": 9721263,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-11T19:09:32Z",
+            "last_commit": "2026-11-15T18:32:21Z",
             "open_issues": 1,
             "owner": "gocom",
             "repo": "textpattern-installer",
@@ -1306,10 +1306,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-10-30T20:46:41Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32803,
+            "stars": 32802,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:16:54.350Z",
+    "last_updated": "2026-11-16T00:22:13.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Textpattern plugins and resources",

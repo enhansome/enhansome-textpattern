@@ -1,6 +1,6 @@
 # Awesome textpattern with stars
 
-h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 536,949 | 🐛 104 | 📅 2026-09-02
+h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 537,504 | 🐛 104 | 📅 2026-09-02
 
 A curated list of amazingly awesome "Textpattern CMS":<http://textpattern.com> plugins, resources and shiny things.
 
@@ -91,7 +91,7 @@ h3(#performance). Performance
 
 * "asy\_jpcache":<https://github.com/netcarver/asy_jpcache> ⭐ 8 | 🐛 1 | 🌐 PHP | 📅 2018-11-04 - Full page caching.
 * "etc\_cache":<https://github.com/etc-plugins/etc_cache> ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2022-04-01 - Events-driven cache solution for Textpattern CMS.
-* "rah\_cache":<https://github.com/gocom/rah_cache> ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2019-03-29 - Cache dynamic pages as flat files.
+* "rah\_cache":<https://github.com/gocom/rah_cache> ⚠️ Archived - Cache dynamic pages as flat files.
 * "rah\_memcached":<https://github.com/gocom/rah_memcached> ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2025-07-16 - Store parts of Textpattern templates in "Memcached":<http://memcached.org>.
 * "rah\_cache\_minify":<https://github.com/gocom/rah_cache_minify> ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2013-07-30 - HTML compressor module for rah\_cache plugin.
 * "aks\_cache":<http://textpattern.org.ua/plugins/aks_cache> - Partially cache parts of a Textpattern template via tags.
@@ -114,7 +114,7 @@ Plugins that add social features to Textpattern.
 
 h3(#misc). Miscellaneous
 
-* "textpattern-installer":<https://github.com/gocom/textpattern-installer> ⭐ 6 | 🐛 1 | 🌐 PHP | 📅 2026-09-11 - Textpattern plugin and theme installer for Composer.
+* "textpattern-installer":<https://github.com/gocom/textpattern-installer> ⭐ 6 | 🐛 1 | 🌐 PHP | 📅 2026-11-15 - Textpattern plugin and theme installer for Composer.
 * "rah\_backup":<https://github.com/gocom/rah_backup> ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2014-04-01 - Takes backups from Textpattern CMS installations.
 * "oui\_cookie":<https://github.com/NicolasGraph/oui_cookie> ⭐ 4 | 🐛 2 | 🌐 PHP | 📅 2019-10-21 - Set, read, reset or delete cookies manually or through URL variables.
 * "pat\_if\_amp":<https://github.com/cara-tm/pat_if_amp> ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2019-12-15 - Serve Google's Accelerated Mobile Pages (AMP) in Textpattern.
@@ -196,7 +196,7 @@ h3(#blogs). Blogs
 
 h2(#related). Related
 
-* "Awesome PHP":<https://github.com/ziadoz/awesome-php> ⭐ 32,803 | 🐛 83 | 📅 2026-10-30 - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+* "Awesome PHP":<https://github.com/ziadoz/awesome-php> ⭐ 32,802 | 🐛 84 | 📅 2026-10-30 - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 h2(#license). License
 
@@ -204,4 +204,4 @@ h2(#license). License
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
