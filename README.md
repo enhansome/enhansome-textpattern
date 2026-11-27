@@ -1,6 +1,6 @@
 # Awesome textpattern with stars
 
-h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 542,896 | 🐛 103 | 📅 2026-09-02
+h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 543,504 | 🐛 103 | 📅 2026-09-02
 
 A curated list of amazingly awesome "Textpattern CMS":<http://textpattern.com> plugins, resources and shiny things.
 
@@ -69,7 +69,7 @@ h3(#embedding). Embedding
 * "arc\_youtube":<https://github.com/drmonkeyninja/arc_youtube> ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2018-05-17 - Easily embed YouTube videos.
 * "oui\_instagram":<https://github.com/NicolasGraph/oui_instagram> ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2017-05-28 - Easily embed Instagram recent images galleries.
 * "oui\_player":<https://github.com/NicolasGraph/oui_player> ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2018-10-09 - Easily embed customizable players from a growing providers list.
-* "oui\_embed":<https://github.com/NicolasGraph/oui_embed> ⭐ 2 | 🐛 1 | 🌐 PHP | 📅 2017-01-19 - Embed any information from any web page using "Embed":<https://github.com/oscarotero/Embed> ⭐ 2,139 | 🐛 11 | 🌐 PHP | 📅 2026-11-25.
+* "oui\_embed":<https://github.com/NicolasGraph/oui_embed> ⭐ 2 | 🐛 1 | 🌐 PHP | 📅 2017-01-19 - Embed any information from any web page using "Embed":<https://github.com/oscarotero/Embed> ⭐ 2,139 | 🐛 6 | 🌐 PHP | 📅 2026-11-26.
 * "arc\_vimeo":<https://github.com/drmonkeyninja/arc_vimeo> ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2018-05-17 - Easily embed Vimeo videos.
 
 h3(#forms). Forms
@@ -204,4 +204,4 @@ h2(#license). License
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
