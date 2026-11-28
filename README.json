@@ -194,7 +194,7 @@
             "id": 3332223,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2025-07-16T11:14:33Z",
+            "last_commit": "2026-11-28T02:13:16Z",
             "open_issues": 0,
             "owner": "gocom",
             "repo": "rah_comment_spam",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:15:46.282Z",
+    "last_updated": "2026-11-28T02:57:07.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Textpattern plugins and resources",

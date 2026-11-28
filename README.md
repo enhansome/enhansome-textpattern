@@ -1,6 +1,6 @@
 # Awesome textpattern with stars
 
-h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 543,504 | 🐛 103 | 📅 2026-09-02
+h1. Awesome Textpattern [<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />](https://github.com/sindresorhus/awesome) ⭐ 543,989 | 🐛 103 | 📅 2026-09-02
 
 A curated list of amazingly awesome "Textpattern CMS":<http://textpattern.com> plugins, resources and shiny things.
 
@@ -55,7 +55,7 @@ h3(#admin). Admin
 h3(#comments). Comments
 
 * "rah\_comments":<https://github.com/gocom/rah_comments> ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2015-03-23 - Paginated article comments.
-* "rah\_comment\_spam":<https://github.com/gocom/rah_comment_spam> ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2025-07-16 - Comment anti-spam plugin.
+* "rah\_comment\_spam":<https://github.com/gocom/rah_comment_spam> ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-11-28 - Comment anti-spam plugin.
 * "arc\_admin\_comment\_preview":<https://github.com/drmonkeyninja/arc_admin_comment_preview> ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2017-01-20 - Adds a comment preview to admin.
 * "jnm\_recent\_comments\_unique":<https://github.com/juanjonavarro/jnm_recent_comments_unique> ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2014-03-07 - Show latest comments.
 
@@ -204,4 +204,4 @@ h2(#license). License
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
